@@ -6,7 +6,7 @@ export const certificationData = {
   duration: "Exam duration: 90 minutes",
   category: "Forensics",
   enrollLink: "/certification/cdfa/register",
-  about: "The Cyberschool Digital Forensics Associate (CDFA) certification is designed for individuals who want to start a career in digital forensics. This certification validates your knowledge of digital forensics concepts, tools, and techniques.",
+  about: "The London Cyber School Digital Forensics Associate (CDFA) certification is designed for individuals who want to start a career in digital forensics. This certification validates your knowledge of digital forensics concepts, tools, and techniques.",
   examDetails: [
     { label: "Number of questions", value: "50" },
     { label: "Question types", value: "Multiple choice and practical labs" },

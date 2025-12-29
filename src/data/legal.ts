@@ -4,7 +4,7 @@ export const legalData = {
     {
       title: "Company Information",
       content: [
-        "Cyberschool is a registered trademark of [Your Company Name], a company registered in [Your Country] with company number [Your Company Number].",
+        "London Cyber School is a registered trademark of [Your Company Name], a company registered in [Your Country] with company number [Your Company Number].",
       ],
     },
     {

@@ -43,7 +43,7 @@ export const about = {
   ],
   cards: [
     {
-      title: "Why Choose CyberSchool?",
+      title: "Why Choose London Cyber School?",
       description:
         "Our platform offers hands-on courses, real-world projects, and mentorship from industry experts to prepare learners for the future.",
     },

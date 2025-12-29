@@ -32,8 +32,8 @@ const LiveTrainingDetailPage = ({ event }: { event: LiveTrainingEvent }) => {
         )}
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-left">
           <div className="flex items-center space-x-4 mb-4">
-            <span className="bg-primary-focus text-primary-content text-sm font-medium px-3 py-1 rounded-full">{event.eventType}</span>
-            <span className="bg-primary-focus text-primary-content text-sm font-medium px-3 py-1 rounded-full">{event.topicArea}</span>
+            <span className="bg-primary-focus text-primary-content text-sm font-medium px-3 py-1 rounded-full border-2 border-primary-content">{event.eventType}</span>
+            <span className="bg-primary-focus text-primary-content text-sm font-medium px-3 py-1 rounded-full border-2 border-primary-content">{event.topicArea}</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold">{event.title} - {event.city}</h1>
           <p className="mt-4 text-lg md:text-xl text-primary-content/80">{event.summary}</p>
@@ -82,17 +82,19 @@ const LiveTrainingDetailPage = ({ event }: { event: LiveTrainingEvent }) => {
           <p><strong>Region:</strong> {event.region}</p>
         </Section>
 
-        <Section title="Enrollment">
-          <p>For enrollment details and to secure your spot, please visit the <Link href={event.detailsLink} className="link link-hover">event registration page</Link>.</p>
-          <div className="mt-6 flex flex-wrap gap-4">
-            <Link href={event.detailsLink} className="btn btn-primary">
-              Register Now
-            </Link>
-            <Link href="/contact" className="btn btn-ghost">
-              Contact Us
-            </Link>
-          </div>
-        </Section>
+        <div className="hidden">
+          <Section title="Enrollment">
+            <p>For enrollment details and to secure your spot, please visit the <Link href={event.detailsLink} className="link link-hover">event registration page</Link>.</p>
+            <div className="mt-6 flex flex-wrap gap-4">
+              <Link href={event.detailsLink} className="btn btn-primary">
+                Register Now
+              </Link>
+              <Link href="/contact" className="btn btn-ghost">
+                Contact Us
+              </Link>
+            </div>
+          </Section>
+        </div>
       </main>
     </div>
   );

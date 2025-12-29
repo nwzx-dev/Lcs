@@ -1,6 +1,6 @@
 import React from "react";
 import { contactData } from "@/data/contact";
-import { Mail, Phone } from "lucide-react";
+import { Mail, MapPin } from "lucide-react"; // Ensure MapPin is imported
 import contactHeroImage from "@/assets/images/annie-spratt-MChSQHxGZrQ-unsplash.jpg";
 
 const ContactPage = () => {
@@ -29,7 +29,7 @@ const ContactPage = () => {
       <div className="max-w-6xl mx-auto px-4 py-16">
         <div className="grid grid-cols-1 gap-12">
           {/* Contact Form Section */}
-          <div className="bg-base-200 p-8 rounded-lg border border-base-300">
+          <div className="bg-base-200 p-8 rounded-lg border border-base-300 hidden">
             <h2 className="text-3xl font-semibold mb-6 text-primary">{t.sendUsAMessage}</h2>
             <form className="space-y-6">
               <div>
@@ -81,29 +81,23 @@ const ContactPage = () => {
         <h2 className="text-3xl font-semibold text-center mb-8 text-primary">
           {t.getInTouch}
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8"> {/* Adjusted grid */}
           {/* Email Card */}
-          <div className="card bg-base-200 border border-base-300 p-6 flex flex-row items-start space-x-4 hover:border-primary transition-colors">
+          <div className="card bg-base-200 border border-base-300 p-8 flex flex-row items-start space-x-4 hover:border-primary transition-colors shadow-xl">
             <Mail className="w-8 h-8 text-primary flex-shrink-0 mt-1" />
             <div>
-              <h3 className="text-2xl font-semibold mb-2">{t.email}</h3>
-              <p className="text-base-content/70">info@cyberschool.com</p>
+              <h3 className="text-3xl font-semibold mb-2">{t.email}</h3>
+              <p className="text-lg text-base-content/80">{t.emailAddressValue}</p>
             </div>
           </div>
 
-          {/* Phone Card */}
-          <div className="card bg-base-200 border border-base-300 p-6 flex flex-row items-start space-x-4 hover:border-primary transition-colors">
-            <Phone className="w-8 h-8 text-primary flex-shrink-0 mt-1" />
+          {/* Address Card */}
+          <div className="card bg-base-200 border border-base-300 p-8 flex flex-row items-start space-x-4 hover:border-primary transition-colors shadow-xl">
+            <MapPin className="w-8 h-8 text-primary flex-shrink-0 mt-1" /> {/* Using MapPin icon for address */}
             <div>
-              <h3 className="text-2xl font-semibold mb-2">{t.phone}</h3>
-              <p className="text-base-content/70">+1 (123) 456-7890</p>
+              <h3 className="text-3xl font-semibold mb-2">{t.address}</h3>
+              <p className="text-lg text-base-content/80">{t.addressValue}</p>
             </div>
-          </div>
-
-          {/* Example Additional Detail Card 3 */}
-          <div className="card bg-base-200 border border-base-300 p-6 text-center hover:border-primary transition-colors">
-            <h3 className="text-2xl font-semibold mb-2">{t.socialMedia}</h3>
-            <p className="text-base-content/70">Follow us on Twitter, LinkedIn, Facebook</p>
           </div>
         </div>
       </div>

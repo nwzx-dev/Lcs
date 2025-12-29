@@ -74,7 +74,7 @@ export const trainingExercisesData = {
     {
       title: "AI Security Tabletop",
       description: "A 4-6 hour tabletop exercise focused on the security challenges of artificial intelligence.",
-      contact: "exercises@cyberschool.edu",
+      contact: "info@londoncyberschool.ai",
       level: "Foundational",
       duration: "4-6 hours",
       participants: "8-12",
@@ -83,7 +83,7 @@ export const trainingExercisesData = {
     {
       title: "Cyber Storm: AI",
       description: "A 2-3 day, full-scale exercise that simulates a sophisticated cyber attack on an AI-powered critical infrastructure system.",
-      contact: "cyberstorm@cyberschool.edu",
+      contact: "info@londoncyberschool.ai",
       level: "Advanced",
       duration: "2-3 days",
       participants: "15-25",
@@ -92,7 +92,7 @@ export const trainingExercisesData = {
     {
       title: "Exercise Planning & Support",
       description: "We can help you design, develop, and deliver a customized exercise that meets your specific training objectives.",
-      contact: "planning@cyberschool.edu",
+      contact: "info@londoncyberschool.ai",
       level: "Foundational, Intermediate, Advanced",
       duration: "Customized",
       participants: "Variable",

@@ -2,21 +2,16 @@ export const footerData = {
   certificates: {
     title: "Certificates",
     links: [
-      { label: "Certified Cyber Expert", href: "/certified-cyber-expert" },
-      { label: "Certified Ethical Hacker", href: "/certifications/ceh" },
-      { label: "Certified Cloud Security Professional", href: "/certifications/ccsp" },
-      { label: "Certified Information Systems Security Professional", href: "/certifications/cissp" },
+      { label: "CxAICSP — Certified Applied AI Cybersecurity Professional", href: "/certification/cxaicsp" },
+      { label: "CxAIRMP — Certified AI Risk Management Professional", href: "/certification/cxairmp" },
     ],
   },
   courses: {
     title: "Courses",
     links: [
-      { label: "AI for Cybersecurity", href: "/training/cyber-expert" },
-      { label: "Training & Exercises", href: "/training-exercises" },
-      { label: "Executive Education", href: "/executive-education" },
-      { label: "Workshops", href: "/workshops" },
-      { label: "Advanced Penetration Testing", href: "/courses/advanced-penetration-testing" },
-      { label: "Cloud Security Fundamentals", href: "/courses/cloud-security-fundamentals" },
+      { label: "AI Cybersecurity Essentials", href: "/training/ai-cybersecurity-essentials" },
+      { label: "AI for Risk Management Professionals", href: "/training/ai-risk-management-professionals" },
+      { label: "AI for Cybersecurity Professionals", href: "/training/ai-for-cybersecurity-professionals" },
     ],
   },
   helpSupport: {
@@ -40,8 +35,8 @@ export const footerData = {
     buttonText: "Join the list",
   },
   companyInfo: {
-    name: "CyberSchool",
-    description: "CyberSchool is a leading global educational institution that is dedicated to providing innovative and high-quality distance-learning opportunities to students from all corners of the world.",
+    name: "London Cyber School",
+    description: "London Cyber School is a leading global educational institution that is dedicated to providing innovative and high-quality distance-learning opportunities to students from all corners of the world.",
   },
   
   quickLinks: {
@@ -53,7 +48,7 @@ export const footerData = {
     ],
   },
   bottomBar: {
-    copyright: "© 2025 London Business School.",
+    copyright: "© 2026 London Business School.",
     allRightsReserved: "All rights reserved.",
     termsOfService: "Terms of Service",
     privacyPolicy: "Privacy Policy",

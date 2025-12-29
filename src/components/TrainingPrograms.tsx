@@ -26,7 +26,7 @@ const TrainingProgramsPage = () => {
       {/* Hero Section */}
       <div className="bg-primary text-primary-content text-center py-20">
         <h1 className="text-5xl font-bold">Training Programs</h1>
-        <p className="text-xl mt-4">Explore all professional trainings offered by Cyberschool.</p>
+        <p className="text-xl mt-4">Explore all professional trainings offered by London Cyber School.</p>
       </div>
 
       {/* Filter Bar */}

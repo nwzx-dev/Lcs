@@ -1,7 +1,8 @@
 "use client";
 
 import React from 'react';
-import { useRouter, usePathname } from 'next/navigation';
+import { useRouter } from 'next/router';
+import { usePathname } from 'next/navigation';
 
 const LanguageSwitcher = () => {
   const router = useRouter();
@@ -10,7 +11,7 @@ const LanguageSwitcher = () => {
 
   const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const newLocale = event.target.value;
-    router.push(pathname, { locale: newLocale });
+    router.push(pathname, pathname, { locale: newLocale });
   };
 
   return (

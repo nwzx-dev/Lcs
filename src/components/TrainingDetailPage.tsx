@@ -56,7 +56,7 @@ const ProgramOverview = ({ training }: { training: Training }) => (
     <div className="relative z-10 max-w-4xl mx-auto px-4 text-left">
       <div className="flex items-center space-x-4 mb-4">
         {training.tags.map(tag => (
-          <span key={tag} className="bg-primary-focus text-primary-content text-sm font-medium px-3 py-1 rounded-full">{tag}</span>
+          <span key={tag} className="bg-primary-focus text-primary-content text-sm font-medium px-3 py-1 rounded-full border-2 border-primary-content">{tag}</span>
         ))}
       </div>
       <h1 className="text-4xl md:text-5xl font-bold">{training.title}</h1>

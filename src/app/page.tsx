@@ -13,7 +13,7 @@ export default function Home() {
       <MarketTrends />
       <HomeCourses />
       <HomeLiveTraining />
-      <NewsletterSubscription />
+      {/* <NewsletterSubscription /> */}
     </main>
   );
 }

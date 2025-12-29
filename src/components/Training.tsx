@@ -17,7 +17,7 @@ const TrainingPage = () => {
     }
 
     const form = document.createElement("form");
-    form.action = "https://formsubmit.co/YOUR_EMAIL@example.com";
+    form.action = "https://formsubmit.co/info@londoncyberschool.ai";
     form.method = "POST";
 
     const input = document.createElement("input");

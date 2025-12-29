@@ -12,7 +12,9 @@ export const contactData = {
     sendMessage: "Send Message",
     getInTouch: "Get in Touch",
     email: "Email",
-    phone: "Phone",
+    emailAddressValue: "info@londoncyberschool.ai",
+    address: "Address",
+    addressValue: "1st Floor, 124 Cleveland Street, London W1T 6PG",
     socialMedia: "Social Media",
   },
 };

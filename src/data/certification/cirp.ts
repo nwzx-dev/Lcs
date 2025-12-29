@@ -6,7 +6,7 @@ export const certificationData = {
   duration: "Exam duration: 120 minutes",
   category: "Cybersecurity",
   enrollLink: "/certification/cirp/register",
-  about: "The Cyberschool Incident Response Professional (CIRP) certification is for professionals who are responsible for responding to and managing security incidents. This certification validates your skills in incident handling, forensics, and communication.",
+  about: "The London Cyber School Incident Response Professional (CIRP) certification is for professionals who are responsible for responding to and managing security incidents. This certification validates your skills in incident handling, forensics, and communication.",
   examDetails: [
     { label: "Number of questions", value: "60" },
     { label: "Question types", value: "Multiple choice and scenario-based" },

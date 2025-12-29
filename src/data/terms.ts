@@ -29,7 +29,7 @@ export const termsData = {
     {
       title: "5. Intellectual Property Rights",
       content: [
-        "All content available on our websites—including text, videos, graphics, logos, icons, illustrations, software, assessments, certification templates, digital badges, images, and training modules—is the exclusive property of [Your Company / Cyberschool] or its licensed content providers. These materials are protected under copyright laws, trademark regulations, and intellectual property rights applicable in various jurisdictions. You are granted a limited, non-transferable, revocable license to access and use our content for personal learning purposes only. Under no circumstances may you resell, redistribute, copy, screenshot, record, or publicly share any portion of our content without explicit written authorization. Unauthorized use of our intellectual property may result in legal action, financial penalties, and termination of your right to access our platforms. All trademarks, certification names, program titles, branding elements, and proprietary processes are owned solely by us or our partners. You agree not to use these trademarks in any manner that may cause confusion, misrepresentation, or unauthorized endorsement.",
+        "All content available on our websites—including text, videos, graphics, logos, icons, illustrations, software, assessments, certification templates, digital badges, images, and training modules—is the exclusive property of [Your Company / London Cyber School] or its licensed content providers. These materials are protected under copyright laws, trademark regulations, and intellectual property rights applicable in various jurisdictions. You are granted a limited, non-transferable, revocable license to access and use our content for personal learning purposes only. Under no circumstances may you resell, redistribute, copy, screenshot, record, or publicly share any portion of our content without explicit written authorization. Unauthorized use of our intellectual property may result in legal action, financial penalties, and termination of your right to access our platforms. All trademarks, certification names, program titles, branding elements, and proprietary processes are owned solely by us or our partners. You agree not to use these trademarks in any manner that may cause confusion, misrepresentation, or unauthorized endorsement.",
       ],
     },
     {
@@ -53,7 +53,7 @@ export const termsData = {
     {
       title: "9. Contact Information",
       content: [
-        "If you have any questions, concerns, or disputes regarding these Terms and Conditions, you may contact us at [support@yourdomain.com]. Our team is committed to responding promptly and providing clarification for any legal, administrative, or operational questions related to your use of our websites. You may also reach us through our online contact forms or official communication channels listed on our platforms.",
+        "If you have any questions, concerns, or disputes regarding these Terms and Conditions, you may contact us at info@londoncyberschool.ai. Our team is committed to responding promptly and providing clarification for any legal, administrative, or operational questions related to your use of our websites. You may also reach us through our online contact forms or official communication channels listed on our platforms.",
       ],
     },
   ],

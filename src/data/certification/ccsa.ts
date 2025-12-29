@@ -6,7 +6,7 @@ export const certificationData = {
   duration: "Exam duration: 90 minutes",
   category: "Cybersecurity",
   enrollLink: "/certification/ccsa/register",
-  about: "The Cyberschool Certified SOC Analyst (CCSA) certification is designed for professionals who want to start or advance their careers in a Security Operations Center (SOC). This certification validates your skills in threat detection, incident response, and security monitoring.",
+  about: "The London Cyber School Certified SOC Analyst (CCSA) certification is designed for professionals who want to start or advance their careers in a Security Operations Center (SOC). This certification validates your skills in threat detection, incident response, and security monitoring.",
   examDetails: [
     { label: "Number of questions", value: "50" },
     { label: "Question types", value: "Multiple choice and practical labs" },

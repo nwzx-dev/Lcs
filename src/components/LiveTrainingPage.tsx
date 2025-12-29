@@ -154,7 +154,7 @@ const TrustSection = () => (
 // CTA Section
 const CtaSection = () => (
   <div>
-    <NewsletterSubscription/>
+    {/* <NewsletterSubscription/> */}
   </div>
 );
 

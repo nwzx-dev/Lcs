@@ -6,7 +6,7 @@ export const faqData = {
     {
       question: "What is CyberSchool?",
       answer:
-        "CyberSchool is a leading online learning platform dedicated to providing accessible, high-quality education in technology and cybersecurity.",
+        "London Cyber School is a leading online learning platform dedicated to providing accessible, high-quality education in technology and cybersecurity.",
     },
     {
       question: "Who are the instructors?",

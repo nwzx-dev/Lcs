@@ -15,6 +15,15 @@ const config: Config = {
       },
     },
   },
-  plugins: [require('daisyui')],
+  plugins: [
+    require('daisyui')({
+      themes: true,
+      styled: true,
+      utils: true,
+      components: {
+        'radial-progress': false,
+      }
+    }),
+  ],
 }
 export default config

@@ -5,7 +5,7 @@ export const privacyData = {
     {
       title: "1. Introduction",
       content: [
-        "This Privacy Policy outlines in detail how [Your Company / Cyberschool] collects, manages, uses, protects, and shares the personal and non-personal information of users who interact with any of our platforms, including our main education website, the certification portal, and the training website. By using our websites, registering for an account, enrolling in courses, obtaining certifications, accessing training materials, or communicating with our support team, you acknowledge and fully consent to the data practices described in this policy. We understand the importance of safeguarding information and are committed to maintaining transparency, security, and trust in how we handle your data. The purpose of this policy is to give you a clear understanding of what information we collect, why we collect it, how long we keep it, and the rights you have regarding your personal information. Our commitment is to comply with applicable data protection laws and industry standards while ensuring that your experience across all our digital platforms remains seamless, secure, and reliable.",
+        "This Privacy Policy outlines in detail how [Your Company / London Cyber School] collects, manages, uses, protects, and shares the personal and non-personal information of users who interact with any of our platforms, including our main education website, the certification portal, and the training website. By using our websites, registering for an account, enrolling in courses, obtaining certifications, accessing training materials, or communicating with our support team, you acknowledge and fully consent to the data practices described in this policy. We understand the importance of safeguarding information and are committed to maintaining transparency, security, and trust in how we handle your data. The purpose of this policy is to give you a clear understanding of what information we collect, why we collect it, how long we keep it, and the rights you have regarding your personal information. Our commitment is to comply with applicable data protection laws and industry standards while ensuring that your experience across all our digital platforms remains seamless, secure, and reliable.",
       ],
     },
     {
@@ -53,7 +53,7 @@ export const privacyData = {
     {
       title: "9. Contact Information",
       content: [
-        "For any questions, concerns, feedback, or requests related to this Privacy Policy or any data protection matters, you can reach us at [support@yourdomain.com]. Our dedicated support team will respond as soon as possible and provide the necessary assistance regarding your privacy rights, data corrections, or policy clarifications. You may also contact us through our official website contact forms or any customer service channels listed on our platforms.",
+        "For any questions, concerns, feedback, or requests related to this Privacy Policy or any data protection matters, you can reach us at info@londoncyberschool.ai. Our dedicated support team will respond as soon as possible and provide the necessary assistance regarding your privacy rights, data corrections, or policy clarifications. You may also contact us through our official website contact forms or any customer service channels listed on our platforms.",
       ],
     },
   ],

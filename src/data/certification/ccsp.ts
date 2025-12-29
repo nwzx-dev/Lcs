@@ -6,7 +6,7 @@ export const certificationData = {
   duration: "Exam duration: 90 minutes",
   category: "Cloud",
   enrollLink: "/certification/ccsp/register",
-  about: "The Cyberschool Cloud Security Practitioner (CCSP) certification is for professionals who are responsible for securing cloud environments. This certification validates your knowledge of cloud security concepts, technologies, and best practices.",
+  about: "The London Cyber School Cloud Security Practitioner (CCSP) certification is for professionals who are responsible for securing cloud environments. This certification validates your knowledge of cloud security concepts, technologies, and best practices.",
   examDetails: [
     { label: "Number of questions", value: "50" },
     { label: "Question types", value: "Multiple choice" },

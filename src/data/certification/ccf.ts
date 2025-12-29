@@ -6,7 +6,7 @@ export const certificationData = {
   duration: "Exam duration: 60 minutes",
   category: "Cybersecurity",
   enrollLink: "/certification/ccf/register",
-  about: "The Cyberschool Cybersecurity Foundation (CCF) certification is designed for individuals who are new to the field of cybersecurity. This certification provides a comprehensive overview of cybersecurity concepts, technologies, and best practices.",
+  about: "The London Cyber School Cybersecurity Foundation (CCF) certification is designed for individuals who are new to the field of cybersecurity. This certification provides a comprehensive overview of cybersecurity concepts, technologies, and best practices.",
   examDetails: [
     { label: "Number of questions", value: "40" },
     { label: "Question types", value: "Multiple choice" },

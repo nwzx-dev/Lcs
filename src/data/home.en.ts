@@ -2,7 +2,7 @@ export const homeDataEn = {
   hero: {
     slides: [
       {
-        title: "Welcome to CyberSchool",
+        title: "Welcome to London Cyber School",
         description:
           "Our mission is to provide cutting-edge cybersecurity education and training to students worldwide. Join us to become a part of a global community dedicated to making the digital world safer.",
       },

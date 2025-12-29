@@ -47,14 +47,7 @@ const CertificationDetailPage = ({ certification }: { certification: any }) => {
 
           </div>
 
-          <aside className="card bg-base-200 p-6">
-            <h3 className="text-xl font-bold mb-4">Quick Info</h3>
-            <div className="space-y-3">
-                <p><strong>Level:</strong> {certification.level}</p>
-                <p><strong>Duration:</strong> {certification.duration}</p>
-                <p><strong>Category:</strong> {certification.category}</p>
-            </div>
-          </aside>
+          
         </div>
       </main>
     </div>
