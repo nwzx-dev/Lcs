@@ -1,11 +1,10 @@
 export const copyrightData = {
   title: "COPYRIGHT POLICY",
-  lastUpdated: "[Insert Date]",
   sections: [
     {
       title: "1. Ownership of Content",
       content: [
-        "All content on this website is the exclusive property of [Your Company Name], unless otherwise explicitly stated. This includes, but is not limited to: Website design, layout, and structure Text content, paragraphs, and written materials Certifications, training material, modules, and curriculum Icons, logos, trademarks, service marks, branding assets Images, illustrations, diagrams, and UI elements Videos, animations, and digital lessons AI-generated outputs produced through our system Software, code snippets, algorithms, tools, and platform features All rights are reserved under applicable copyright laws, trademark laws, intellectual property laws, and international treaties.",
+        "All content on this website is the exclusive property of London Cyber School, unless otherwise explicitly stated. This includes, but is not limited to: Website design, layout, and structure Text content, paragraphs, and written materials Certifications, training material, modules, and curriculum Icons, logos, trademarks, service marks, branding assets Images, illustrations, diagrams, and UI elements Videos, animations, and digital lessons AI-generated outputs produced through our system Software, code snippets, algorithms, tools, and platform features All rights are reserved under applicable copyright laws, trademark laws, intellectual property laws, and international treaties.",
       ],
     },
     {
@@ -59,7 +58,7 @@ export const copyrightData = {
     {
       title: "10. Updates to This Policy",
       content: [
-        "We may modify or update this Copyright Policy from time to time. The “Last Updated” date at the top will reflect such changes. Continuing to use the website after updates constitutes acceptance of the revised Policy.",
+        "We may modify or update this Copyright Policy from time to time. Continuing to use the website after updates constitutes acceptance of the revised Policy.",
       ],
     },
   ],

@@ -1,11 +1,10 @@
 export const privacyData = {
   title: "Privacy Policy",
-  lastUpdated: "[DATE]",
   sections: [
     {
       title: "1. Introduction",
       content: [
-        "This Privacy Policy outlines in detail how [Your Company / London Cyber School] collects, manages, uses, protects, and shares the personal and non-personal information of users who interact with any of our platforms, including our main education website, the certification portal, and the training website. By using our websites, registering for an account, enrolling in courses, obtaining certifications, accessing training materials, or communicating with our support team, you acknowledge and fully consent to the data practices described in this policy. We understand the importance of safeguarding information and are committed to maintaining transparency, security, and trust in how we handle your data. The purpose of this policy is to give you a clear understanding of what information we collect, why we collect it, how long we keep it, and the rights you have regarding your personal information. Our commitment is to comply with applicable data protection laws and industry standards while ensuring that your experience across all our digital platforms remains seamless, secure, and reliable.",
+        "This Privacy Policy outlines in detail how London Cyber School collects, manages, uses, protects, and shares the personal and non-personal information of users who interact with any of our platforms, including our main education website, the certification portal, and the training website. By using our websites, registering for an account, enrolling in courses, obtaining certifications, accessing training materials, or communicating with our support team, you acknowledge and fully consent to the data practices described in this policy. We understand the importance of safeguarding information and are committed to maintaining transparency, security, and trust in how we handle your data. The purpose of this policy is to give you a clear understanding of what information we collect, why we collect it, how long we keep it, and the rights you have regarding your personal information. Our commitment is to comply with applicable data protection laws and industry standards while ensuring that your experience across all our digital platforms remains seamless, secure, and reliable.",
       ],
     },
     {
@@ -47,7 +46,7 @@ export const privacyData = {
     {
       title: "8. Updates to This Privacy Policy",
       content: [
-        "We may update this Privacy Policy periodically to reflect technological changes, improvements in our services, regulatory updates, or adjustments to our internal policies. Whenever we make significant changes, we will revise the “Last Updated” date at the top of the page and may notify users via email or in-platform announcements. We encourage all users to review this Privacy Policy regularly to stay informed about how their information is handled and protected. Your continued use of our websites after any modifications indicates your acceptance of the updated policy. If changes significantly impact user rights, we may provide additional notice before the updated policy takes effect.",
+        "We may update this Privacy Policy periodically to reflect technological changes, improvements in our services, regulatory updates, or adjustments to our internal policies. We encourage all users to review this Privacy Policy regularly to stay informed about how their information is handled and protected. Your continued use of our websites after any modifications indicates your acceptance of the updated policy. If changes significantly impact user rights, we may provide additional notice before the updated policy takes effect.",
       ],
     },
     {

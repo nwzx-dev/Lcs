@@ -9,7 +9,6 @@ const TermsAndConditionsPage = () => {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-primary">{termsData.title}</h1>
-          <p className="mt-4 text-sm text-base-content/70">Last Updated: {termsData.lastUpdated}</p>
         </div>
         <div className="prose max-w-none">
           {termsData.sections.map((section, index) => (

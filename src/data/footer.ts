@@ -19,7 +19,6 @@ export const footerData = {
     links: [
       { label: "Contact", href: "/contact" },
       { label: "FAQs", href: "/faqs" },
-      { label: "Legal", href: "/legal" },
       { label: "Terms & Conditions", href: "/terms" },
       { label: "Privacy Policy", href: "/privacy" },
       { label: "Copyright", href: "/copyright" },
